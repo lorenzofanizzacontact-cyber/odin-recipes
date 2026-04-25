@@ -1,0 +1,51 @@
+h1 {
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+body {
+  max-width: 800px;
+  margin: auto;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.homepage p {
+  background-color: black;
+  padding: 30px;
+  margin: 30px;
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  
+}
+
+.plat {
+    font-family: Arial, sans-serif;
+}
+
+.plat h3,
+.plat h4 {
+  background-color: bisque;
+  text-align: center;
+  padding: 18px;
+}
+
+.plat p {
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
